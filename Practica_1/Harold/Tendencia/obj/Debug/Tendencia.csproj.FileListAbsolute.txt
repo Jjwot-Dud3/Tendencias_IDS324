@@ -1,0 +1,6 @@
+C:\Users\Harold Rodriguez\source\repos\Tendencia\Tendencia\bin\Debug\Tendencia.exe.config
+C:\Users\Harold Rodriguez\source\repos\Tendencia\Tendencia\bin\Debug\Tendencia.exe
+C:\Users\Harold Rodriguez\source\repos\Tendencia\Tendencia\bin\Debug\Tendencia.pdb
+C:\Users\Harold Rodriguez\source\repos\Tendencia\Tendencia\obj\Debug\Tendencia.csprojAssemblyReference.cache
+C:\Users\Harold Rodriguez\source\repos\Tendencia\Tendencia\obj\Debug\Tendencia.exe
+C:\Users\Harold Rodriguez\source\repos\Tendencia\Tendencia\obj\Debug\Tendencia.pdb
